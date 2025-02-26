@@ -21,4 +21,4 @@ This project demonstrates the use of the MapReduce paradigm to analyze the frequ
 ## Results
 
 ![Task 1](./screenshots/SCR_1.png)
-![Task 1](./screenshots/SCR_1.png)
+![Task 1](./screenshots/SCR_2.png)
