@@ -1,4 +1,4 @@
-# Home Assignment: MapReduce Text Analysis
+# Home Assignment: Fundamentals of Parallel Computing and the MapReduce Model
 
 This project demonstrates the use of the MapReduce paradigm to analyze the frequency of words in a given text. The script fetches text from a specified URL, processes it using MapReduce, and visualizes the top words by frequency.
 
